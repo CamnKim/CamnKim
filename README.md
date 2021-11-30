@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cameron Kim
-- 👀 I’m interested in Web Development, Mobile App Development, AI, VR
-- 🌱 I’m currently learning Tensorflow, 
+- 👀 I’m interested in Web Development, Game Development, AR, VR
+- 🌱 I’m currently learning Unity3D, 
 - 📫 How to reach me - ckim18@kent.edu
 
 <!---
