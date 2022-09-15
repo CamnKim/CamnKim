@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Cameron Kim
+- 👨‍💻 I'm a Junior Software Engineer at Xometry
 - 👀 I’m interested in Web Development, Computer Graphics Game Development, AR, VR
-- 🌱 I’m currently learning Unity XR, 
-- 📫 How to reach me - ckim18@kent.edu
+- 🌱 I’m currently learning OpenGL, 
+- 📫 How to reach me - cameronnkim2000@gmail.com
 
 <!---
 CamnKim/CamnKim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
