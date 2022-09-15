@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Cameron Kim
-- 👀 I’m interested in Web Development, Game Development, AR, VR
+- 👀 I’m interested in Web Development, Computer Graphics Game Development, AR, VR
 - 🌱 I’m currently learning Unity XR, 
 - 📫 How to reach me - ckim18@kent.edu
 
