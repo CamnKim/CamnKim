@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Cameron Kim
-- 👨‍💻 I'm a Junior Software Engineer at Xometry
+- 👨‍💻 I'm a Software Engineer at Xometry
 - 👀 I’m interested in Web Development, Computer Graphics, Game Development, AR, VR
-- 🌱 I’m currently learning OpenGL, 
+- 🌱 I’m currently learning Golang and WebGL, 
 - 📫 How to reach me - cameronnkim2000@gmail.com
 
 <!---
